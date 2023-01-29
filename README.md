@@ -1,2 +1,2 @@
 # lgames.gog
-Game of the Generals, single and multiplier board game
+Game of the Generals (GOG) a single and multiplier board game
